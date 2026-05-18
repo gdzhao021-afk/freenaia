@@ -1,0 +1,8 @@
+name = "freenaia"
+compatibility_date = "2026-05-18"
+
+# 你的 API 中转 JS 入口
+main = "src/index.js"
+
+# 可选：绑定自定义域名
+# routes = ["https://api.example.com/*"]
